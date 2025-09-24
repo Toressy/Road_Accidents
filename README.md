@@ -2,7 +2,8 @@
 View the interactive dashboard on Tableau Public:  
 👉 [Road Accident Dashboard](https://public.tableau.com/views/Road_Accidents_17586453415910/Road_Accidents?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![dashboard-demo (1)](https://github.com/user-attachments/assets/b65709ca-0e02-414d-8f7b-ed02c91f40fc)
+![Screen Recording 2025-09-24 at 12 23 36](https://github.com/user-attachments/assets/fc15c2d4-eb03-424a-b6ac-e5bb2fb94608)
+
 
 ## 📊 Overview
 This Tableau dashboard provides a comprehensive analysis of road accident data across the United Kingdom. Myy goal was to uncover patterns and insights that could inform public safety strategies, transportation planning, and policy decisions.
