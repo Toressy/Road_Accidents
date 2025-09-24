@@ -2,7 +2,7 @@
 View the interactive dashboard on Tableau Public:  
 👉 [Road Accident Dashboard](https://public.tableau.com/views/Road_Accidents_17586453415910/Road_Accidents?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Screen Recording 2025-09-24 at 12 23 36](https://github.com/user-attachments/assets/fc15c2d4-eb03-424a-b6ac-e5bb2fb94608)
+![Screen Recording 2025-09-24 at 12 34 03](https://github.com/user-attachments/assets/345afe58-864d-4b5c-9f21-1f2274e0e73e)
 
 
 ## 📊 Overview
