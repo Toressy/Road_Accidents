@@ -6,7 +6,7 @@ View the interactive dashboard on Tableau Public:
 
 
 ## 📊 Overview
-This Tableau dashboard provides a comprehensive analysis of road accident data across the United Kingdom. Myy goal was to uncover patterns and insights that could inform public safety strategies, transportation planning, and policy decisions.
+This Tableau dashboard provides a comprehensive analysis of road accident data across the United Kingdom. My goal was to uncover patterns and insights that could inform public safety strategies, transportation planning, and policy decisions.
 
 The dashboard visualises key metrics such as:
 - Total accidents and casualty trends over time
